@@ -10,8 +10,9 @@ sexo = input("Digite (M) para mulher e (H) para homem: ")
 if sexo == "M" or sexo == "m":
     altura = float(input("Digite sua altura: "))
     peso = float(input("Digite o peso: "))
-    peso_ideal =  (62.1 * altura) - 44.7
+    peso_ideal = int((62.1 * altura) - 44.7)
     if peso_ideal == peso:
+        print("Seu peso ideal: %.2f" % peso_ideal)
         print("Você está no peso ideal")
     elif peso_ideal > peso:
         print("Você está abaixo do peso ideal")
@@ -21,7 +22,8 @@ if sexo == "M" or sexo == "m":
 elif sexo == "H" or sexo == "h":
     altura = float(input("Digite sua altura: "))
     peso = float(input("Digite o peso: "))
-    peso_ideal = (72.7 * altura) - 58
+    peso_ideal = int((72.7 * altura) - 58)
+    print("Seu peso ideal: %.2f" % peso_ideal)
     if peso_ideal == peso:
         print("Você está no peso ideal")
     elif peso_ideal > peso:
