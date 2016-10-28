@@ -5,13 +5,30 @@ calcule seu peso ideal, utilizando as seguintes fórmulas:
 •Peça o peso da pessoa e informe se ela está dentro, acima ou abaixo do peso.
 """
 
-homem_altura = 1.80
-mulher_altura = 1.60
+sexo = input("Digite (M) para mulher e (H) para homem: ")
 
-peso = float(input("Digite o peso: "))
+if sexo == "M" or sexo == "m":
+    altura = float(input("Digite sua altura: "))
+    peso = float(input("Digite o peso: "))
+    peso_ideal =  (62.1 * altura) - 44.7
+    if peso_ideal == peso:
+        print("Você está no peso ideal")
+    elif peso_ideal > peso:
+        print("Você está abaixo do peso ideal")
+    else:
+        print("Você está acima do peso ideal")
 
-peso_ideal_homem = (peso * homem_altura) - 58
-peso_ideal_mulher =  (peso * mulher_altura) - 44.7
+elif sexo == "H" or sexo == "h":
+    altura = float(input("Digite sua altura: "))
+    peso = float(input("Digite o peso: "))
+    peso_ideal = (72.7 * altura) - 58
+    if peso_ideal == peso:
+        print("Você está no peso ideal")
+    elif peso_ideal > peso:
+        print("Você está abaixo do peso ideal")
+    else:
+        print("Você está acima do peso ideal")
 
-print("Homem com peso ideal: ", peso_ideal_homem)
-print("Mulher com peso ideal ", peso_ideal_mulher)
+else:
+    print("Digite um valor válido!")
+
