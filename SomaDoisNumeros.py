@@ -1,5 +1,10 @@
 # Faça um Programa que peça dois números e imprima a soma.
 
+#autor: @fharaujo
+#data: 25/10/2016
+#Projeto: APrendendo Python
+
+
 numero1 = int(input("Digite o primeiro número: "))
 numero2 = int(input("Digite o segundo número: "))
 

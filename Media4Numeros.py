@@ -1,5 +1,9 @@
 #Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 
+#autor: @fharaujo
+#data: 26/10/2016
+#Projeto: APrendendo Python
+
 nota1 = float(input("Digite a primeira nota: "))
 nota2 = float(input("Digite a segunda nota: "))
 nota3 = float (input("Digite a terceira nota: "))

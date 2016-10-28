@@ -6,3 +6,6 @@ peso (peso de peixes) e verifique se há excesso. Se houver, gravar na variável
 variável multa o valor da multa que João deverá pagar. Caso contrário mostrar tais variáveis com
 o conteúdo ZERO."""
 
+#autor: @fharaujo
+#data: 28/10/2016
+#Projeto: APrendendo Python

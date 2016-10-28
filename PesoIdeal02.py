@@ -4,6 +4,10 @@ calcule seu peso ideal, utilizando as seguintes fórmulas:
 •Para mulheres: (62.1 * h) - 44.7 (Sabendo que, h = altura)
 •Peça o peso da pessoa e informe se ela está dentro, acima ou abaixo do peso.
 """
+#autor: @fharaujo
+#data: 28/10/2016
+#Projeto: APrendendo Python
+
 
 sexo = input("Digite (M) para mulher e (H) para homem: ")
 

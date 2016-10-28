@@ -2,6 +2,9 @@
 * o produto do dobro do primeiro com metade do segundo.
 * a soma do triplo do primeiro com o terceiro.
 * o terceiro elevado ao cubo."""
+#autor: @fharaujo
+#data: 28/10/2016
+#Projeto: APrendendo Python
 
 numero1 = int(input("Digite o primeiro número: "))
 numero2 = int(input("Digite o segundo número: "))
