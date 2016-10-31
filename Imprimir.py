@@ -1,6 +1,6 @@
 #autor: @fharaujo
 #data: 26/10/2016
-#Projeto: APrendendo Python
+#Projeto: APrendendo Python - Estrutura Sequencial
 
 
 print("""

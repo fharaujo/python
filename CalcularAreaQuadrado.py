@@ -2,7 +2,7 @@
 em seguida mostre o dobro desta área para o usuário."""
 #autor: @fharaujo
 #data: 28/10/2016
-#Projeto: APrendendo Python
+#Projeto: APrendendo Python - Estrutura Sequencial
 
 lado = 20
 area = lado * lado

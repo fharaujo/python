@@ -4,7 +4,7 @@ usando a seguinte fórmula: (72.7*altura) - 58"""
 
 #autor: @fharaujo
 #data: 27/10/2016
-#Projeto: APrendendo Python
+#Projeto: APrendendo Python - Estrutura Sequencial
 
 altura = 1.80
 peso_ideal = (72.7 * altura) - 58

@@ -4,7 +4,7 @@ Calcule e mostre o total do seu salário no referido mês."""
 
 #autor: @fharaujo
 #data: 26/10/2016
-#Projeto: APrendendo Python
+#Projeto: APrendendo Python - Estrutura Sequencial
 
 salario_hora = float(input("Quanto você ganha por hora?: "))
 

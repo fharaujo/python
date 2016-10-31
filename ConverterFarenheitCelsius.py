@@ -4,7 +4,7 @@ transforme e mostre a temperatura em graus Celsius.
 
 #autor: @fharaujo
 #data: 28/10/2016
-#Projeto: APrendendo Python
+#Projeto: APrendendo Python - Estrutura Sequencial
 
 fahrenheit = int(input("Digite a temperatura em Fahrenheit: "))
 celsius = (5 * (fahrenheit - 32)/9)

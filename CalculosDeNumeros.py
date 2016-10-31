@@ -4,7 +4,7 @@
 * o terceiro elevado ao cubo."""
 #autor: @fharaujo
 #data: 28/10/2016
-#Projeto: APrendendo Python
+#Projeto: APrendendo Python - Estrutura Sequencial
 
 numero1 = int(input("Digite o primeiro número: "))
 numero2 = int(input("Digite o segundo número: "))

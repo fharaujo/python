@@ -8,4 +8,20 @@ o conteúdo ZERO."""
 
 #autor: @fharaujo
 #data: 28/10/2016
-#Projeto: APrendendo Python
+#Projeto: APrendendo Python - Estrutura Sequencial
+
+print("""Você tem um limite Estadual de 50kg de pescado.
+Após isso, será cobrado um valor de R$ 4.00 por kg excedente\n""")
+kg_permitido = 50
+peso = float(input("Digite o peso do pescado: "))
+
+if peso > kg_permitido:
+    excesso = peso - kg_permitido
+    multa = excesso * 4.00
+    print("O excesso de %i kg, gerou uma multa de: R$ %.2f" % (excesso, multa))
+elif peso <= kg_permitido:
+    multa = 0
+    excesso = 0
+    print("O excesso de %i kg, gerou uma multa de: R$ %i" % (excesso, multa))
+else:
+    print("Digite um valor válido!")

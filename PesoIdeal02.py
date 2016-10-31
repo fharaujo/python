@@ -6,7 +6,7 @@ calcule seu peso ideal, utilizando as seguintes fórmulas:
 """
 #autor: @fharaujo
 #data: 28/10/2016
-#Projeto: APrendendo Python
+#Projeto: APrendendo Python - Estrutura Sequencial
 
 
 sexo = input("Digite (M) para mulher e (H) para homem: ")

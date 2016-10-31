@@ -3,7 +3,7 @@ transforme e mostre em graus Farenheit."""
 
 #autor: @fharaujo
 #data: 28/10/2016
-#Projeto: APrendendo Python
+#Projeto: APrendendo Python - Estrutura Sequencial
 
 Celsius = int(input("Digite a temperatura em Celsius: "))
 
