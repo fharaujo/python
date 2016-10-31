@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39ccbfe7-3bfb-4214-a3b1-54c146f32ff0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ContraChequeTrabalhador.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LojaDeTintas01.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LojaDeTintas02.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TempoDown.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CalcularArea Circulo.py" afterPath="$PROJECT_DIR$/CalcularAreaCirculo.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SolicitarNumero Exibir.py" afterPath="$PROJECT_DIR$/SolicitarNumeroExibir.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalcularEnergiaEletrica.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalcularAreaQuadrado.py" afterPath="$PROJECT_DIR$/CalcularAreaQuadrado.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalculosDeNumeros.py" afterPath="$PROJECT_DIR$/CalculosDeNumeros.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConverterCelsiusFarenheit.py" afterPath="$PROJECT_DIR$/ConverterCelsiusFarenheit.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConverterFarenheitCelsius.py" afterPath="$PROJECT_DIR$/ConverterFarenheitCelsius.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConverterMetrosCentimetros.py" afterPath="$PROJECT_DIR$/ConverterMetrosCentimetros.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorld.py" afterPath="$PROJECT_DIR$/HelloWorld.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Imprimir.py" afterPath="$PROJECT_DIR$/Imprimir.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Media4Numeros.py" afterPath="$PROJECT_DIR$/Media4Numeros.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PesoIdeal01.py" afterPath="$PROJECT_DIR$/PesoIdeal01.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PesoIdeal02.py" afterPath="$PROJECT_DIR$/PesoIdeal02.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProblemaParaJoao.py" afterPath="$PROJECT_DIR$/ProblemaParaJoao.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SalarioDiasHorasTrabalho.py" afterPath="$PROJECT_DIR$/SalarioDiasHorasTrabalho.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SomaDoisNumeros.py" afterPath="$PROJECT_DIR$/SomaDoisNumeros.py" />
     </list>
     <ignored path="python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,6 +18,7 @@
     <SUITE FILE_PATH="coverage/python$ConverterFarenheitCelsius.coverage" NAME="ConverterFarenheitCelsius Coverage Results" MODIFIED="1477548358737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$Converter_Metros_em_Centimetros.coverage" NAME="Converter Metros em Centimetros Coverage Results" MODIFIED="1477524410283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$ContraChequeTrabalhador.coverage" NAME="ContraChequeTrabalhador Coverage Results" MODIFIED="1477705430070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$CalcularEnergiaEletrica.coverage" NAME="CalcularEnergiaEletrica Coverage Results" MODIFIED="1477894539367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$SalarioDiasHorasTrabalho.coverage" NAME="SalarioDiasHorasTrabalho Coverage Results" MODIFIED="1477700156035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$Imprimir_na_Tela.coverage" NAME="Imprimir na Tela Coverage Results" MODIFIED="1477488291325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$CalcularArea_Circulo.coverage" NAME="CalcularArea Circulo Coverage Results" MODIFIED="1477525781982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -52,8 +35,8 @@
     <SUITE FILE_PATH="coverage/python$Soma_de_Dois_Numeros.coverage" NAME="Soma de Dois Numeros Coverage Results" MODIFIED="1477527841538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$LojaDeTintas02.coverage" NAME="LojaDeTintas02 Coverage Results" MODIFIED="1477890436593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$CalcularAreaQuadrado.coverage" NAME="CalcularAreaQuadrado Coverage Results" MODIFIED="1477527817042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python$EnergiaEletrica__1_.coverage" NAME="EnergiaEletrica (1) Coverage Results" MODIFIED="1477860977530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python$TempoDown.coverage" NAME="TempoDown Coverage Results" MODIFIED="1477893427237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$EnergiaEletrica__1_.coverage" NAME="EnergiaEletrica (1) Coverage Results" MODIFIED="1477894528926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$TempoDown.coverage" NAME="TempoDown Coverage Results" MODIFIED="1477894383736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -63,7 +46,28 @@
     <favorites_list name="python" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="EnergiaEletrica.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EnergiaEletrica.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalcularEnergiaEletrica.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CalcularEnergiaEletrica.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -74,6 +78,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -95,7 +105,6 @@
         <option value="$PROJECT_DIR$/ConverterCelsiusFarenheit.py" />
         <option value="$PROJECT_DIR$/ConverterFarenheitCelsius.py" />
         <option value="$PROJECT_DIR$/ConverterMetrosCentimetros.py" />
-        <option value="$PROJECT_DIR$/EnergiaEletrica.py" />
         <option value="$PROJECT_DIR$/HelloWorld.py" />
         <option value="$PROJECT_DIR$/Imprimir.py" />
         <option value="$PROJECT_DIR$/LojaDeTintas01.py" />
@@ -108,6 +117,8 @@
         <option value="$PROJECT_DIR$/SolicitarNumeroExibir.py" />
         <option value="$PROJECT_DIR$/SomaDoisNumeros.py" />
         <option value="$PROJECT_DIR$/TempoDown.py" />
+        <option value="$PROJECT_DIR$/EnergiaEletrica.py" />
+        <option value="$PROJECT_DIR$/CalcularEnergiaEletrica.py" />
       </list>
     </option>
   </component>
@@ -197,25 +208,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/EnergiaEletrica.py" />
   </component>
-  <component name="RunManager" selected="Python.TempoDown">
-    <configuration default="false" name="LojaDeTintas01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LojaDeTintas01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.CalcularEnergiaEletrica">
     <configuration default="false" name="LojaDeTintas02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,6 +277,24 @@
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TempoDown.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CalcularEnergiaEletrica" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CalcularEnergiaEletrica.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -497,19 +508,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.LojaDeTintas01" />
-      <item index="1" class="java.lang.String" itemvalue="Python.LojaDeTintas02" />
-      <item index="2" class="java.lang.String" itemvalue="Python.EnergiaEletrica" />
-      <item index="3" class="java.lang.String" itemvalue="Python.EnergiaEletrica (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.TempoDown" />
+      <item index="0" class="java.lang.String" itemvalue="Python.LojaDeTintas02" />
+      <item index="1" class="java.lang.String" itemvalue="Python.EnergiaEletrica" />
+      <item index="2" class="java.lang.String" itemvalue="Python.EnergiaEletrica (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.TempoDown" />
+      <item index="4" class="java.lang.String" itemvalue="Python.CalcularEnergiaEletrica" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.TempoDown" />
-        <item index="1" class="java.lang.String" itemvalue="Python.LojaDeTintas02" />
-        <item index="2" class="java.lang.String" itemvalue="Python.EnergiaEletrica (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.EnergiaEletrica" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LojaDeTintas01" />
+        <item index="0" class="java.lang.String" itemvalue="Python.CalcularEnergiaEletrica" />
+        <item index="1" class="java.lang.String" itemvalue="Python.EnergiaEletrica (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.TempoDown" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LojaDeTintas02" />
+        <item index="4" class="java.lang.String" itemvalue="Python.EnergiaEletrica" />
       </list>
     </recent_temporary>
   </component>
@@ -587,22 +598,30 @@
       <option name="project" value="LOCAL" />
       <updated>1477658448764</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="9fileExCommitNameCorrectionFinish">
+      <created>1477894259160</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1477894259160</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="37" y="24" width="1329" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24454477" sideWeight="0.5608696" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24454477" sideWeight="0.5608696" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31240657" sideWeight="0.50564337" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31240657" sideWeight="0.49435666" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31240657" sideWeight="0.49435666" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24454477" sideWeight="0.43913043" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -632,7 +651,8 @@
     <MESSAGE value="6fileExCommit" />
     <MESSAGE value="7fileExCommit" />
     <MESSAGE value="8fileExCommitNameCorrection" />
-    <option name="LAST_COMMIT_MESSAGE" value="8fileExCommitNameCorrection" />
+    <MESSAGE value="9fileExCommitNameCorrectionFinish" />
+    <option name="LAST_COMMIT_MESSAGE" value="9fileExCommitNameCorrectionFinish" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -809,14 +829,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EnergiaEletrica.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -909,6 +921,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EnergiaEletrica.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalcularEnergiaEletrica.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding />
         </state>
       </provider>
